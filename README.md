@@ -1,2 +1,2 @@
 # CalculaInvestimentos
-Calcula Investimentos usando dicionários, estruturas de repetição e função
+No python, calcula investimentos usando dicionários, estruturas de repetição e função
